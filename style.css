@@ -9,7 +9,7 @@ h1{
 .red-color{
     color: red;
 }
-section{
+.food-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -36,5 +36,5 @@ section{
 .about-me{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    
+
 }
